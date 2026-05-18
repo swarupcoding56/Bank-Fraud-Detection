@@ -39,6 +39,6 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | XGBoost | Joblib
 
 ---------
 
-###💼 Project Type:
+### 💼 Project Type:
 
 Machine Learning | Data Science | Fraud Analytics | Financial Risk Modeling | Classification | Imbalanced ML | End-to-End Python Project
