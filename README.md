@@ -29,10 +29,16 @@ I cover the **entire pipeline** — from understanding raw transaction data to b
 ### 🧩 Tools & Libraries Used
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | XGBoost | Joblib
-----
+
+---------
+
 **DATA DICTIONARY AND SOURCE OF THE DATA**
 Data Dictionary: The data dictionary of the dataset can be found [DATA DICTIONARY] (https://drive.google.com/file/d/18r_YER6_dbP6H9qeHx5uARsBRRyDt6zk/view)
 Data Source: The dataset can be found [DATASET] (https://drive.google.com/file/d/1kgeDuGx2VVyr0R4FB4-9JrLrUjPRA1XS/view)
+
+
+---------
+
 💼 Project Type:
 
 Machine Learning | Data Science | Fraud Analytics | Financial Risk Modeling | Classification | Imbalanced ML | End-to-End Python Project
