@@ -4,16 +4,16 @@
 **Bank Fraud Detection Project** using Machine Learning in Python! 🚀  
 Here we solve a real-world financial fraud problem and show how ML models can help banks detect suspicious transactions and prevent monetary loss.
 
-This Fraud Detection Machine Learning Project is perfect for data science, AI, and ML enthusiasts who want to build a strong portfolio project and learn how fraud analytics works in real banking systems.
+In this Fraud Detection Machine Learning Project I learn how fraud analytics works in real banking systems.
 
 
 ---
 
 ## What This Project Covers
 
-We cover the **entire pipeline** — from understanding raw transaction data to building high-performance fraud detection models — explained step-by-step in a practical approach
+I cover the **entire pipeline** — from understanding raw transaction data to building high-performance fraud detection models — explained step-by-step in a practical approach
 
-### 🧠 What You’ll Learn
+### 🧠 What I have solved
 
 - ✅ How to understand and frame a real fraud detection business problem  
 - ✅ Perform in-depth Exploratory Data Analysis (EDA) on transaction data  
